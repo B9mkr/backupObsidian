@@ -1,7 +1,7 @@
 #! /bin/bash
 
 data=`date +%Y%m%d%H%M%S`
-cd '/home/bm/snap/obsidian/x1'
+cd '/home/bm/Documents/base'
 from='base'
 toNewFile='/home/bm/Documents/Backups/backupObsidian/'$data'.tar'
 
